@@ -6,6 +6,7 @@ A small (experimental) library for self-hosting a StoryMaps instance in GitHub, 
 
 * Make sure you've signed up for Github Pages
 * Put your storymaps URL in the config
+* One more thing...
 
 ## Disclaimer
 
